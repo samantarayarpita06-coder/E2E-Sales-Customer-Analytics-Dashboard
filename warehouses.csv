@@ -1,0 +1,9 @@
+warehouse_id,name,country,city,capacity
+W001,WH-1,Brunei Darussalam,Berlin,163089
+W002,WH-2,Tokelau,London,51844
+W003,WH-3,Luxembourg,Bengaluru,74974
+W004,WH-4,Netherlands Antilles,London,79868
+W005,WH-5,Congo,Mumbai,67517
+W006,WH-6,Brazil,Singapore,103009
+W007,WH-7,Faroe Islands,Delhi,56163
+W008,WH-8,Costa Rica,London,165325

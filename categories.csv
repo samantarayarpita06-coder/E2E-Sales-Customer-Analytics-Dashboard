@@ -1,0 +1,26 @@
+category_id,name,parent_id
+1,Category 1,
+2,Category 2,
+3,Category 3,
+4,Category 4,
+5,Category 5,
+6,Category 6,3.0
+7,Category 7,3.0
+8,Category 8,5.0
+9,Category 9,1.0
+10,Category 10,3.0
+11,Category 11,5.0
+12,Category 12,5.0
+13,Category 13,2.0
+14,Category 14,5.0
+15,Category 15,2.0
+16,Category 16,4.0
+17,Category 17,5.0
+18,Category 18,3.0
+19,Category 19,2.0
+20,Category 20,4.0
+21,Category 21,1.0
+22,Category 22,1.0
+23,Category 23,1.0
+24,Category 24,2.0
+25,Category 25,5.0
